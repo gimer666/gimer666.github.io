@@ -1,0 +1,36 @@
+html{
+    background: palegreen;
+    font-size: 12px;
+    font-family: placeholder 'Press Start 2P';
+}
+
+
+h3,p{
+   color: #0AA9FF;
+   font-size: 60px;
+   text-align: center;
+}
+
+li{
+    color: #2624B1;
+}
+
+body{
+    width: 700px;
+    margin: 0 auto;
+    background-color: wheat;
+    border: 5px solid black;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+h4{
+    color: yellow;
+    text-align: center;
+}
+
+
+
