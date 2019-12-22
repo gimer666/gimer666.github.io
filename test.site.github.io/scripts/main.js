@@ -6,6 +6,8 @@ myImage.onclick = function() {
         myImage.setAttribute ('src', 'images/art-tan2.png');
     } else {
         myImage.setAttribute ('src', 'images/art-tan.png');
+    } ifelse (condition) {
+        myImage.setAttribute ('src', 'image/zakat.png');
     }
 }
 
