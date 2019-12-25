@@ -1,0 +1,8 @@
+<link href="https://fonts.googleapis.com/css?family=Girassol|Josefin+Sans|Press+Start+2P&display=swap" rel="stylesheet" type="text/css">
+<style>
+    body{
+            font-family: 'Press Start 2P', cursive;
+            font-family: 'Josefin+Sans', cursive;
+            font-family: 'Girassol', cursive;
+     }
+    </style>
